@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --crust: #232634;
+    --base: #303446;
+    --surface0: #414559;
+    --overlay0: #737994;
+    --subtext0: #a5adce;
+    --text: #c6d0f5;
+    --sky: #99d1db;
+    --rosewater: #f2d5cf;
+}
